@@ -1,3 +1,10 @@
-.h1{
-    color:red;
+*{
+    background-color: rgb(204, 224, 224);
+}
+
+h1{
+    color:blue;
+}
+h3{
+    background-color: bisque;
 }
